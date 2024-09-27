@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: darkgoldenrod;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+p{
+    color:darkgreen;
+}
+li{
+    color:blue;
+}
+ul{
+    color: blue;
+}
